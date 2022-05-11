@@ -1,0 +1,2 @@
+[23-Nov-2021 10:30:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/azcommercialtruc/public_html/dax/Sign-in/costumer54865465764887id=666/userlogin.php on line 23
+[23-Nov-2021 10:30:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/azcommercialtruc/public_html/dax/Sign-in/costumer54865465764887id=666/antibots.php on line 21
